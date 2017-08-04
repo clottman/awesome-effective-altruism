@@ -39,6 +39,7 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 ## :computer: Blogs
 - [Giving Gladly](http://www.givinggladly.com/) - Effective Altruism blog by Julia Wise
 - [Jeff Kaufman's Blog](http://www.jefftk.com/index) - Effective Altruism blog by Jeff Kaufman
+- [Christian EA Blog](http://christianea.org/blog/) 
 
 ## :books: Books
 - [The Life You Can Save: How to Do Your Part to End World Poverty](https://www.amazon.com/Life-You-Can-Save-Poverty/dp/0812981561/ref=sr_1_1?ie=UTF8&qid=1491663357&sr=8-1&keywords=the+life+you+can+save) - Provides ethical arguments, illuminating examples, and case studies of charitable giving to show that our current response to world poverty is not only insufficient but morally indefensible.
@@ -57,6 +58,7 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 - [Effective Altruism Forum](http://effective-altruism.com/ea/6x/introduction_to_effective_altruism/) - Effective Altruism Q&A Forum.
 - [Effective Altruism Facebook Group](https://www.facebook.com/groups/effective.altruists/) - Effective Altruism Facebook Group.
 - [Effective Altruism Wiki](http://wiki.effectivealtruismhub.com/index.php?title=Effective_Altruism_Wiki) - Wiki run by Effective Altruism Hub.
+- [Christians & Effective Altruism Facebook Group](https://www.facebook.com/groups/741228169272427/)
 
 ### Meetups
 - [EA Hub](https://eahub.org/) - Hosts and points to a range of resources and projects for effective altruists.
@@ -90,6 +92,7 @@ For any personal suggestions, drop me a line: sheon.han[at]gmail.com.
 ## :thought_balloon: Resources
 - [Coursera: Effective Altruism by Peter Singer](https://www.coursera.org/learn/altruism) - Course on Effective Altruism by Peter Singer
 - [Criticisms against Effective Altruism](http://wiki.effectivealtruismhub.com/index.php?title=Criticism_of_effective_altruism) - Collected series of criticisms of Effective Altruism.
+- [Christian Effective Altruism hub](http://christianea.org/) - Intro to Effective Altruism from a Christian perspective
 
 ## :heart: Acknowledgement
 - [Peter Singer](http://www.petersinger.info/)
